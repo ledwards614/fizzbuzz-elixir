@@ -1,6 +1,6 @@
 # FIZZBUZZ
 
-**TODO: Add description**
+Description: First attempt at writing an Elixir project. The FizzBuzz app returns "FizzBuzz" is number is divisible by 15, "Fizz" if the number is divisible by 3, and "Buzz" if the number is divisible by 5, otherwise it will just return the number.
 
 ## Installation
 
